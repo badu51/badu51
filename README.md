@@ -1,4 +1,4 @@
-# Emmanuel Prata 🫧
+# Emmanuel Prata
 
 ## Skills
 ### 🖥️ Hard skills
@@ -21,7 +21,7 @@
 ![Pycharm](https://img.shields.io/badge/Pycharm-3c6675?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badu51&theme=transparent&bg_color=800080&border_color=734b82&show_icons=true&icon_color=b97bd1&title_color=b97bd1&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badu51&theme=transparent&bg_color=000000&border_color=ff5330&show_icons=true&icon_color=ff5330&title_color=ff5330&text_color=FFF&hide_title=true&hide=stars)
 
 ## My current projects 
 >I'm currently participating in Santander Coders 2024, in [Santander Coders 2024](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024), making projects on Git/Github, including a portfolio, and learning Java in [DIO](https://www.dio.me/).
